@@ -8,6 +8,7 @@
 	margin: 1em 1%;
 	overflow: hidden;
 	width: 100%;
+        float: left;
 }
 .navi ul {
 	margin: 0;
