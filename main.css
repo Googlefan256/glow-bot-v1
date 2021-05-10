@@ -19,7 +19,7 @@
 	-webkit-transition: all 0.2s;
 	        transition: all 0.2s;
 }
-.navi > ul > li > a > .inviter {
+.navi > ul > li > a > .caret {
 	border-top: 4px solid #aaaaaa;
 	border-right: 4px solid transparent;
 	border-left: 4px solid transparent;
@@ -44,7 +44,7 @@
 .navi > ul > li:hover > a {
 	color: rgb( 255, 255, 255 );
 }
-.navi > ul > li:hover > a > .inviter {
+.navi > ul > li:hover > a > .caret {
 	border-top-color: rgb( 255, 255, 255 );
 }
 .navi > ul > li > div {
