@@ -19,7 +19,7 @@
 	-webkit-transition: all 0.2s;
 	        transition: all 0.2s;
 }
-.navi > ul > li > a > .invite {
+.navi > ul > li > a > .inviter {
 	border-top: 4px solid #aaaaaa;
 	border-right: 4px solid transparent;
 	border-left: 4px solid transparent;
