@@ -1,4 +1,4 @@
-.cp_navi {
+.navi {
 	background-color: #ffffff;
 	border: 1px solid #dedede;
 	border-radius: 4px;
@@ -9,17 +9,17 @@
 	overflow: hidden;
 	width: 100%;
 }
-.cp_navi ul {
+.navi ul {
 	margin: 0;
 	padding: 0;
 }
-.cp_navi ul li {
+.navi ul li {
 	display: inline-block;
 	list-style-type: none;
 	-webkit-transition: all 0.2s;
 	        transition: all 0.2s;
 }
-.cp_navi > ul > li > a > .caret {
+.navi > ul > li > a > .invite {
 	border-top: 4px solid #aaaaaa;
 	border-right: 4px solid transparent;
 	border-left: 4px solid transparent;
@@ -31,23 +31,23 @@
 	-webkit-transition: color 0.1s linear;
 	        transition: color 0.1s linear;
 }
-.cp_navi > ul > li > a {
+.navi > ul > li > a {
 	color: #aaaaaa;
 	display: block;
 	line-height: 56px;
 	padding: 0 10px;
 	text-decoration: none;
 }
-.cp_navi > ul > li:hover {
+.navi > ul > li:hover {
 	background-color: rgb(218, 60, 65);
 }
-.cp_navi > ul > li:hover > a {
+.navi > ul > li:hover > a {
 	color: rgb( 255, 255, 255 );
 }
-.cp_navi > ul > li:hover > a > .caret {
+.navi > ul > li:hover > a > .caret {
 	border-top-color: rgb( 255, 255, 255 );
 }
-.cp_navi > ul > li > div {
+.navi > ul > li > div {
 	background-color: rgb(218, 60, 65);
 	border-top: 0;
 	border-radius: 0 0 4px 4px;
@@ -61,20 +61,20 @@
 	-webkit-transiton: opacity 0.2s;
 	       transition: opacity 0.2s;
 }
-.cp_navi > ul > li:hover > div {
+.navi > ul > li:hover > div {
 	display: block;
 	opacity: 1;
 	visibility: visible;
 }
-.cp_navi > ul > li > div ul > li {
+.navi > ul > li > div ul > li {
 	display: block;
 }
-.cp_navi > ul > li > div ul > li > a {
+.navi > ul > li > div ul > li > a {
 	color: #ffffff;
 	display: block;
 	padding: 12px 24px;
 	text-decoration: none;
 }
-.cp_navi > ul > li > div ul > li:hover > a {
+.navi > ul > li > div ul > li:hover > a {
 	background-color: rgba( 255, 255, 255, 0.1);
 }
