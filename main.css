@@ -44,7 +44,7 @@
 .navi > ul > li:hover > a {
 	color: rgb( 255, 255, 255 );
 }
-.navi > ul > li:hover > a > .caret {
+.navi > ul > li:hover > a > .inviter {
 	border-top-color: rgb( 255, 255, 255 );
 }
 .navi > ul > li > div {
