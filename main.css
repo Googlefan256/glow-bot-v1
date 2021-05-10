@@ -1,1 +1,6 @@
-background-image: url("./bot.png");
+body{
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image:url("https://magazine-cf.techacademy.jp/wp-content/uploads/2021/03/20220916/laptop_small.jpg");
+}
