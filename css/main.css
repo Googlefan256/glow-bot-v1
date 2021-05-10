@@ -78,3 +78,6 @@
 .navi > ul > li > div ul > li:hover > a {
 	background-color: rgba( 255, 255, 255, 0.1);
 }
+html {
+    overflow-y: hidden;
+}
