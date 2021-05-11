@@ -1,0 +1,17 @@
+h1 {
+	border-bottom: solid 3px black;
+}
+table {
+	border-collapse: collapse;
+	margin-left: auto;
+    margin-right: auto;
+}
+table th {
+	padding: 10px 250px 10px 10px;
+}
+table tr:nth-child(1) th:nth-child(2) {
+	padding: 10px 450px 10px 10px;
+}
+table td {
+	padding: 3px 10px;
+}
